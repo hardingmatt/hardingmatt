@@ -3,10 +3,10 @@
 <h3 align="left">What I do</h3>
 
 | Company | Years | Role |
-| :---:     |   :---   |  :---  |
-| <img align="center" src="https://user-images.githubusercontent.com/1088319/180622631-c5d5b478-4a42-4b24-9928-63cd311418ab.png" alt="Vanta" height="25" width="69" />  | 2022 - current | Senior Software Engineer at Vanta  |
-| <img align="center" src="https://user-images.githubusercontent.com/1088319/180622347-b8e443c4-ba1e-4094-bca7-7fc343b6982d.png" alt="Zippity" height="25" width="41" />  | 2018 - 2022 | CTO at Zippity  |
-| <img align="center" src="https://user-images.githubusercontent.com/1088319/180622306-c43ec844-2e1f-4671-ade0-b3b0cf04179c.png" alt="Amazon" height="25" width="83" />  | 2013 - 2017 | SDE I ➡ II ➡ III at Amazon  |
+| :---:     |   :--:   |  :---  |
+| <a href="https://www.vanta.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/1088319/180622631-c5d5b478-4a42-4b24-9928-63cd311418ab.png" alt="Vanta" height="25" width="69" /></a>  | 2022 - current | Senior Software Engineer at Vanta  |
+| <a href="https://www.getzippity.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/1088319/180622347-b8e443c4-ba1e-4094-bca7-7fc343b6982d.png" alt="Zippity" height="25" width="41" /></a>  | 2018 - 2022 | CTO at Zippity  |
+| <a href="https://amazon.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/1088319/180622306-c43ec844-2e1f-4671-ade0-b3b0cf04179c.png" alt="Amazon" height="25" width="83" /></a>  | 2013 - 2017 | SDE I ➡ II ➡ III at Amazon  |
 
 
 <h3 align="left">Connect with me:</h3>

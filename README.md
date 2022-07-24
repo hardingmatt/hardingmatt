@@ -20,3 +20,6 @@
 
 Your IP address:
 <img align="center" src="https://mtqmoishye6hosjwqifrqulzxy0bujio.lambda-url.us-east-1.on.aws" alt="ip-address" height="30" />
+
+Current time:
+<img align="center" src="https://hookrace.net/time.gif" alt="ip-address" height="30" />

@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/1088319/180665556-1581d049-9745-4648-bf5f-88c556dc0dc8.png" alt="harding-matt" height="400" width="533" />
+<img align="center" src="https://user-images.githubusercontent.com/1088319/180665556-1581d049-9745-4648-bf5f-88c556dc0dc8.png" alt="harding-matt" height="300" width="400" />
 
 | Company | Years | Role |
 | :---:     |   :--:   |  :---  |

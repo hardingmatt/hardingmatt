@@ -18,9 +18,16 @@
 
 </p>
 
-This image shows:
-* the GitHub IP address that cached the image
-* the time the image was cached
-* the number of times this page has been accessed
+<hr />
 
-![](https://mtqmoishye6hosjwqifrqulzxy0bujio.lambda-url.us-east-1.on.aws?cache=no)
+<p>This image shows:</p>
+<img align="left" src="https://mtqmoishye6hosjwqifrqulzxy0bujio.lambda-url.us-east-1.on.aws?cache=no" />
+<p>
+  <ul>
+    <li>the GitHub IP address that cached the image</li>
+    <li>the time the image was cached</li>
+    <li>the number of times this page has been accessed</li>
+    </ul>
+  </p>
+
+

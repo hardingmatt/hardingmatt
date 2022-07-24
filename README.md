@@ -18,14 +18,9 @@
 
 </p>
 
-Your IP address:
-<img align="center" src="https://mtqmoishye6hosjwqifrqulzxy0bujio.lambda-url.us-east-1.on.aws" alt="ip-address" height="30" />
-![](https://mtqmoishye6hosjwqifrqulzxy0bujio.lambda-url.us-east-1.on.aws?c=d)
+This image shows:
+* the GitHub IP address that cached the image
+* the time the image was cached
+* the number of times this page has been accessed
+
 ![](https://mtqmoishye6hosjwqifrqulzxy0bujio.lambda-url.us-east-1.on.aws?cache=no)
-
-Current time:
-<img align="center" src="https://hookrace.net/time.gif" alt="ip-address" height="30" />
-![](https://hookrace.net/time.gif)
-
-Visitor count:
-![](https://visitor-badge.glitch.me/badge?page_id=hardingmatt.hardingmatt)
